@@ -1,5 +1,5 @@
 def funcup(value):
-    """Function takes a string as input and returns it with all capital letters"""
+    """The function takes a string as input and returns it with all capital letters"""
     return value.upper()
 
 def functi(value):
